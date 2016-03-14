@@ -2,11 +2,7 @@
   "name": "ng-idle",
   "version": "0.3.5",
   "description": "Directives and services for responding to idle users in AngularJS",
-  "main": [
-    "angular-idle.js",
-    "angular-idle.min.js",
-    "angular-idle.map"
-  ],
+  "main": "angular-idle.js",
   "scripts": {
     "test": "grunt test"
   },
